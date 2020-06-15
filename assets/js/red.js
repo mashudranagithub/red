@@ -213,7 +213,8 @@ $(document).ready(function(){
            }
     });
     $('.header-main').wrapAll('<div class="cover">');
-    $('.cover').css('min-height', $('.header-main').outerHeight());
+    $('.cover').css('height', $('.header-main').outerHeight());
+    $('.cover').css('max-height', '90px');
     $('.cover').css('height', 'auto');
     //Code for sticky menu End Here
 
