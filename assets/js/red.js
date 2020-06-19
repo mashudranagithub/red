@@ -96,16 +96,6 @@ $(document).ready(function(){
             });
         }
 
-        // if(scroll> 220){
-        //     $('.etra-contents').children('.training').css({
-        //         "opacity": "1",
-        //     });
-        // }else{
-        //     $('.etra-contents').children('.training').css({
-        //         "opacity": "0",
-        //     });
-        // }
-
         if(scroll> 250){
             $('.etra-contents').children('.research').css({
                 "opacity": "1",
@@ -116,7 +106,7 @@ $(document).ready(function(){
             });
         }
 
-        if(scroll> 400){
+        if(scroll> 350){
             $('.etra-contents').children('.advocacy').css({
                 "opacity": "1",
             });
@@ -142,10 +132,10 @@ $(document).ready(function(){
         autoplayTimeout:10000,
         smartSpeed:500,
         margin:30,
-        nav:false,
-        navDots:true,
+        nav:true,
+        navText:['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
         lazyLoad:true,
-        center:true,
+        center:false,
         responsive:{
             480:{
                 items:1
@@ -154,7 +144,39 @@ $(document).ready(function(){
                 items:1
             },
             1000:{
-                items:4
+                items:3
+            }
+        }
+    });
+
+    // Project Slider End Here
+
+
+
+    // Project Slider Start Here
+    
+    $('.news-events-slider').owlCarousel({
+        // items:3,
+        merge:true,
+        loop:true,
+        autoplay:true,
+        autoplaySpeed:2000,
+        autoplayTimeout:10000,
+        smartSpeed:500,
+        margin:30,
+        nav:true,
+        navText:['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
+        lazyLoad:true,
+        center:false,
+        responsive:{
+            480:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:3
             }
         }
     });
@@ -213,9 +235,10 @@ $(document).ready(function(){
            }
     });
     $('.header-main').wrapAll('<div class="cover">');
-    $('.cover').css('height', $('.header-main').outerHeight());
-    $('.cover').css('max-height', '90px');
-    $('.cover').css('height', 'auto');
+    // $('.cover').css('height', $('.header-main').outerHeight());
+    $('.cover').css('height', '90px');
+    // $('.cover').css('max-height', '90px');
+    // $('.cover').css('height', 'auto');
     //Code for sticky menu End Here
 
 
