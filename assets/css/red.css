@@ -283,8 +283,7 @@ ul.second-dropped-menu.research li a {
 
 ul.second-dropped-menu {
     left: calc( 100% + 1px );
-    /*top: -13px;*/
-    top: -3px;
+    top: 0px;
 }
 
 ul.first-dropped-menu.last-dropdown {
