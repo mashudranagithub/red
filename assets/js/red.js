@@ -251,6 +251,10 @@ $(document).ready(function(){
     });
 
 
+    var l_p_height = $('.latest-publication').innerHeight();
+    $('.publication-list').css('height', l_p_height);
+
+
 
 });
 

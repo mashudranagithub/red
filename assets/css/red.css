@@ -36,6 +36,7 @@ h3{
 
 h1,h2,h3,h4,h5,h6{
     margin:0;
+    font-family: 'Bebas Neue', cursive;
 }
 
 a, 
@@ -90,6 +91,28 @@ a.btn.btn-red svg.svg-inline--fa {
 a.btn.btn-red,
 a.btn.btn-red svg.svg-inline--fa {
     color: #006634;
+}
+
+a.btn.btn-red.know-more {
+    background: none;
+    padding-left: 0;
+}
+
+a.btn.btn-red.know-more:hover {
+    color: #a50000;
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 4px rgba(200, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: #a50000;
+  outline: 1px solid slategrey;
 }
 
 /*Sticky Menu*/
@@ -799,6 +822,51 @@ section#Projects {
     margin-bottom: 15px;
 }
 
+
+
+
+.owl-carousel.news-events-slider,
+.owl-carousel.projects-slider {
+    position: relative;
+}
+
+
+.owl-carousel.news-events-slider .owl-nav button,
+.owl-carousel.projects-slider .owl-nav button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 35px;
+    height: 35px;
+    line-height: 37px;
+    box-shadow: 0 0 2px 0px #4d4d4d;
+}
+
+
+.owl-carousel.news-events-slider .owl-dots,
+.owl-carousel.projects-slider .owl-dots {
+    display: none;
+}
+
+
+.owl-carousel.news-events-slider .owl-nav button.owl-prev,
+.owl-carousel.projects-slider .owl-nav button.owl-prev {
+    left: -70px;
+}
+
+
+.owl-carousel.news-events-slider .owl-nav button.owl-next,
+.owl-carousel.projects-slider .owl-nav button.owl-next {
+    right: -70px;
+}
+
+
+.owl-carousel.news-events-slider .owl-nav button svg.svg-inline--fa,
+.owl-carousel.projects-slider .owl-nav button svg.svg-inline--fa {
+    font-size: 18px;
+    color: #adadad;
+}
+
 /*****************************
     project Slider End Here
 ******************************/
@@ -813,7 +881,37 @@ section#Publication {
     padding: 50px 0;
 }
 
-.publication-intro {
+.latest-publication h4 {
+    margin: 15px 0 10px;
+}
+
+.publication-list {
+    /*max-height: 600px;*/
+    overflow-y: scroll;
+    background: #f6f6f6;
+    padding: 15px 25px;
+}
+
+.publication-list .single-publication {
+    border-bottom: 1px solid #a50000;
+    margin-bottom: 15px;
+}
+
+.publication-list::-webkit-scrollbar {
+  width: 10px;
+}
+ 
+.publication-list::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 4px #006634;
+}
+ 
+.publication-list::-webkit-scrollbar-thumb {
+  background-color: #a50000;
+  border-radius: 4px;
+  outline: 1px solid slategrey;
+}
+
+/*.publication-intro {
     background: #e4e4e4;
     padding: 25px;
     color: #4d4d4d;
@@ -911,7 +1009,7 @@ section#Publication {
 .single-publication:hover .publication-intro {
     background: #a50000;
     color: #fff;
-}
+}*/
 
 /*****************************
     Publication Section End Here

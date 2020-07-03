@@ -56,16 +56,6 @@
 					</a>
 				</div>
 			</div>
-			<!-- <div class="etra-part training">
-				<div class="etra-content-inner text-center">
-					<img src="assets/img/etra/icons/Training.svg" alt="Etra Icon Image">
-					<h2>Training</h2>
-					<p>The Centre offers unique and innovative pedagogic methods with interactive discussions, experiential ...</p>
-					<a href="#" class="btn btn-red">Learn More
-						<i class="fas fa-angle-double-right"></i>
-					</a>
-				</div>
-			</div> -->
 			<div class="etra-part research">
 				<div class="etra-content-inner text-center">
 					<i class="fas fa-newspaper"></i>
@@ -191,7 +181,7 @@
 
 
 	<!-- Publication Section Start Here -->
-	<section id="Publication" class="d-flex justify-content-center align-items-center white">
+<!-- 	<section id="Publication" class="d-flex justify-content-center align-items-center white">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -262,6 +252,103 @@
 									<i class="fas fa-angle-double-right"></i>
 								</a>
 							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<a href="javascript:void(0);" class="btn btn-red view-all">All Publications</a>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!-- Publication Section End Here -->
+
+	<!-- Publication Section Start Here -->
+	<section id="Publication" class="white">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-heading text-center">
+						<h2>Publications</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6">
+					<div class="latest-publication">
+						<div class="publication-image">
+							<a href="javascript:void(0);">
+								<img src="assets/img/publication/usgs-k7WetNdaY6A-unsplash.jpg" alt="Publication Image">
+							</a>
+						</div>
+						<h4>Lorem ipsum dolor sit amet</h4>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, dolore. Corrupti illo ducimus perspiciatis fuga inventore hic necessitatibus alias aspernatur!</p>
+						<a href="javascript:void(0);" class="btn btn-red know-more">Know more</a>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="publication-list">
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
+						</div>
+						<div class="single-publication">
+							<h4>
+								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
+							</h4>
+							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
 						</div>
 					</div>
 				</div>
