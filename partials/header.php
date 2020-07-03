@@ -132,7 +132,7 @@
 		                                    <li class="first-drop-menu">
 		                                        <a href="#">Resources</a>
 		                                        <ul class="first-dropped-menu">
-		                                            <li><a href="Javascript:void(0);">All Publications</a></li>
+		                                            <li><a href="publications.php">All Publications</a></li>
 		                                            <li><a href="Javascript:void(0);">Journals</a></li>
 		                                            <li><a href="Javascript:void(0);">Books</a></li>
 		                                            <li><a href="Javascript:void(0);">Reports</a></li>

@@ -272,7 +272,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<a href="javascript:void(0);" class="btn btn-red view-all">All Publications</a>
+					<a href="publications.php" class="btn btn-red view-all">All Publications</a>
 				</div>
 			</div>
 		</div>

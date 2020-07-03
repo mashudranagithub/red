@@ -103,7 +103,7 @@ a.btn.btn-red.know-more:hover {
 }
 
 body::-webkit-scrollbar {
-  width: 10px;
+  width: 12px;
 }
  
 body::-webkit-scrollbar-track {
@@ -113,6 +113,7 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background-color: #a50000;
   outline: 1px solid slategrey;
+  border-radius: 0 0 4px 4px;
 }
 
 /*Sticky Menu*/
@@ -1150,7 +1151,7 @@ ul.footer-service-list li svg.svg-inline--fa {
 
 
 /*Other Pages*/
-/*Vision & Mission Page*/
+/*Vision & Mission Page Start here*/
 
 section#Page-content h3 {
     font-family: 'Bebas Neue', cursive;
@@ -1165,8 +1166,61 @@ section#Page-content h3 {
     margin-bottom: 50px;
 }
 
+/*Vision & Mission Page End here*/
 
 
+
+
+
+/*Publications page start here*/
+.article-image {
+    max-width: 20%;
+    margin-right: 20px;
+}
+
+.single-article {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #a50000;
+    background: #f6f6f6;
+    padding: 15px 20px;
+}
+
+section#Page-content .tab-content h3 {
+    margin-bottom: 30px;
+}
+
+.sidebar-centre-link .nav-pills {
+    display: block !important;
+}
+
+.sidebar-centre-link .nav-pills li.nav-item {
+    margin-bottom: 10px;
+}
+
+.sidebar-centre-link .nav-pills .nav-link {
+    background: #f6f6f6;
+    color: #006634;
+    text-align: left;
+    padding: 15px 20px;
+}
+
+.sidebar-centre-link .nav-pills .nav-link.active,
+.sidebar-centre-link .nav-pills .show>.nav-link {
+    color: #fff;
+    background: #a50000;
+}
+
+.article-info h4 a {
+    color: #333;
+}
+
+.article-info h4:hover a {
+    color: #a50000;
+}
+
+
+/*Publications page end here*/
 
 
 
