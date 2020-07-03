@@ -177,93 +177,8 @@
 			</div>
 		</div>
 	</section>
-		<!-- project section end here -->
+	<!-- project section end here -->
 
-
-	<!-- Publication Section Start Here -->
-<!-- 	<section id="Publication" class="d-flex justify-content-center align-items-center white">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="section-heading text-center">
-						<h2>Publications</h2>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<div class="owl-carousel publication-slider">
-						<div class="single-publication">
-							<div class="publication-image">
-								<img src="assets/img/publication/water-management.jpg" alt="Publication Image">
-								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377418307741" target="_blank">
-									<i class="fa fa-file"></i>
-								</a>
-							</div>
-							<div class="publication-intro text-center">
-								<h3>Publication Name</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita error, officiis quia incidunt ipsa temporibus sed commodi dignissimos</p>
-								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377418307741" target="_blank" class="btn btn-red">Read More
-									<i class="fas fa-angle-double-right"></i>
-								</a>
-							</div>
-						</div>
-						<div class="single-publication">
-							<div class="publication-image">
-								<img src="assets/img/publication/water-management.jpg" alt="Publication Image">
-								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377418307741" target="_blank">
-									<i class="fa fa-file"></i>
-								</a>
-							</div>
-							<div class="publication-intro text-center">
-								<h3>Publication Name</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita error, officiis quia incidunt ipsa temporibus sed commodi dignissimos</p>
-								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377418307741" target="_blank" class="btn btn-red">Read More
-									<i class="fas fa-angle-double-right"></i>
-								</a>
-							</div>
-						</div>
-						<div class="single-publication">
-							<div class="publication-image">
-								<img src="assets/img/publication/water-management.jpg" alt="Publication Image">
-								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377418307741" target="_blank">
-									<i class="fa fa-file"></i>
-								</a>
-							</div>
-							<div class="publication-intro text-center">
-								<h3>Publication Name</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita error, officiis quia incidunt ipsa temporibus sed commodi dignissimos</p>
-								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377418307741" target="_blank" class="btn btn-red">Read More
-									<i class="fas fa-angle-double-right"></i>
-								</a>
-							</div>
-						</div>
-						<div class="single-publication">
-							<div class="publication-image">
-								<img src="assets/img/publication/water-management.jpg" alt="Publication Image">
-								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377418307741" target="_blank">
-									<i class="fa fa-file"></i>
-								</a>
-							</div>
-							<div class="publication-intro text-center">
-								<h3>Publication Name</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita error, officiis quia incidunt ipsa temporibus sed commodi dignissimos</p>
-								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377418307741" target="_blank" class="btn btn-red">Read More
-									<i class="fas fa-angle-double-right"></i>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12 text-center">
-					<a href="javascript:void(0);" class="btn btn-red view-all">All Publications</a>
-				</div>
-			</div>
-		</div>
-	</section> -->
-	<!-- Publication Section End Here -->
 
 	<!-- Publication Section Start Here -->
 	<section id="Publication" class="white">
@@ -283,9 +198,11 @@
 								<img src="assets/img/publication/usgs-k7WetNdaY6A-unsplash.jpg" alt="Publication Image">
 							</a>
 						</div>
-						<h4>Lorem ipsum dolor sit amet</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, dolore. Corrupti illo ducimus perspiciatis fuga inventore hic necessitatibus alias aspernatur!</p>
-						<a href="javascript:void(0);" class="btn btn-red know-more">Know more</a>
+						<div class="latest-publication-info">
+							<h4>Lorem ipsum dolor sit amet</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, dolore. Corrupti illo ducimus perspiciatis fuga inventore hic necessitatibus alias aspernatur!</p>
+							<a href="javascript:void(0);" class="btn btn-red know-more">Know more</a>
+						</div>
 					</div>
 				</div>
 				<div class="col-md-6">
@@ -462,6 +379,64 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<a href="javascript:void(0);" class="btn btn-red view-all">All News & Events</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="Partners">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-heading text-center">
+						<h2>Partners</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="owl-carousel partners-slider">
+						<div class="single-partner">
+							<a href="javascript:void(0);">
+								<img src="assets/img/partners/partner.png" alt="Partner Image">
+							</a>
+						</div>
+						<div class="single-partner">
+							<a href="javascript:void(0);">
+								<img src="assets/img/partners/partner.png" alt="Partner Image">
+							</a>
+						</div>
+						<div class="single-partner">
+							<a href="javascript:void(0);">
+								<img src="assets/img/partners/partner.png" alt="Partner Image">
+							</a>
+						</div>
+						<div class="single-partner">
+							<a href="javascript:void(0);">
+								<img src="assets/img/partners/partner.png" alt="Partner Image">
+							</a>
+						</div>
+						<div class="single-partner">
+							<a href="javascript:void(0);">
+								<img src="assets/img/partners/partner.png" alt="Partner Image">
+							</a>
+						</div>
+						<div class="single-partner">
+							<a href="javascript:void(0);">
+								<img src="assets/img/partners/partner.png" alt="Partner Image">
+							</a>
+						</div>
+						<div class="single-partner">
+							<a href="javascript:void(0);">
+								<img src="assets/img/partners/partner.png" alt="Partner Image">
+							</a>
+						</div>
+						<div class="single-partner">
+							<a href="javascript:void(0);">
+								<img src="assets/img/partners/partner.png" alt="Partner Image">
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

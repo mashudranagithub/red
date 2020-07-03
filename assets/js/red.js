@@ -251,8 +251,42 @@ $(document).ready(function(){
     });
 
 
+    // Publication Height
     var l_p_height = $('.latest-publication').innerHeight();
     $('.publication-list').css('height', l_p_height);
+
+
+
+
+    // Partners Slider Start here
+    $('.owl-carousel.partners-slider').owlCarousel({
+        items:5,
+        loop:true,
+        autoplay:true,
+        responsiveClass: true,
+        autoplayHoverPause: true, // Stops autoplay
+        responsiveRefreshRate : 10,
+        autoplaySpeed:2000,
+        autoplayTimeout:10000,
+        smartSpeed:500,
+        margin:10,
+        // nav:true,
+        // navText:['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:3
+            },
+            1366:{
+                items:5
+            },
+        }
+    });
 
 
 

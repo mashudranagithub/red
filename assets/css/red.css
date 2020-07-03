@@ -669,6 +669,7 @@ section#About {
     margin-bottom: 60px;
     position: relative;
     padding-bottom: 10px;
+    letter-spacing: 1px;
 }
 
 .section-heading h2 span {
@@ -881,8 +882,13 @@ section#Publication {
     padding: 50px 0;
 }
 
+.latest-publication-info {
+    background: #f6f6f6;
+    padding: 20px 20px 0;
+}
+
 .latest-publication h4 {
-    margin: 15px 0 10px;
+    margin: 0 0 10px;
 }
 
 .publication-list {
@@ -911,109 +917,19 @@ section#Publication {
   outline: 1px solid slategrey;
 }
 
-/*.publication-intro {
-    background: #e4e4e4;
-    padding: 25px;
-    color: #4d4d4d;
+.publication-list .single-publication h4 a {
+    color: #212529;
 }
 
-.publication-image {
-    position: relative;
-    border: 1px solid #e4e4e4;
-    border-bottom: none;
+.publication-list .single-publication h4:hover a {
+    color: #a50000;
 }
-
-.publication-image a {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    height: 45px;
-    width: 45px;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%;
-    background: #a50000;
-    transform: translate(-50%, 50%);
-}
-
-.publication-image a svg.svg-inline--fa {
-    color:#fff;
-    font-size: 20px;
-}
-
-.owl-carousel.publication-slider,
-.owl-carousel.news-events-slider,
-.owl-carousel.projects-slider {
-    position: relative;
-}
-
-.owl-carousel.publication-slider .owl-nav button,
-.owl-carousel.news-events-slider .owl-nav button,
-.owl-carousel.projects-slider .owl-nav button {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 35px;
-    height: 35px;
-    line-height: 37px;
-    box-shadow: 0 0 2px 0px #4d4d4d;
-}
-
-.owl-carousel.publication-slider .owl-dots,
-.owl-carousel.news-events-slider .owl-dots,
-.owl-carousel.projects-slider .owl-dots {
-    display: none;
-}
-
-.owl-carousel.publication-slider .owl-nav button.owl-prev,
-.owl-carousel.news-events-slider .owl-nav button.owl-prev,
-.owl-carousel.projects-slider .owl-nav button.owl-prev {
-    left: -70px;
-}
-
-.owl-carousel.publication-slider .owl-nav button.owl-next,
-.owl-carousel.news-events-slider .owl-nav button.owl-next,
-.owl-carousel.projects-slider .owl-nav button.owl-next {
-    right: -70px;
-}
-
-.owl-carousel.publication-slider .owl-nav button svg.svg-inline--fa,
-.owl-carousel.news-events-slider .owl-nav button svg.svg-inline--fa,
-.owl-carousel.projects-slider .owl-nav button svg.svg-inline--fa {
-    font-size: 18px;
-    color: #adadad;
-}
-
-.publication-intro h3 {
-    padding: 15px 0;
-    font-size: 18px;
-    text-transform: uppercase;
-    font-weight: 500;
-    letter-spacing: 1.2px;
-}
-
-.publication-intro p {
-    margin-bottom: 20px;
-    font-size: 17px;
-    font-weight: 300;
-    line-height: 25px;
-}
-
-.publication-intro a.btn.btn-red {
-    padding: 5px 20px;
-    background: #fff;
-}
-
-.single-publication:hover .publication-intro {
-    background: #a50000;
-    color: #fff;
-}*/
 
 /*****************************
     Publication Section End Here
 ******************************/
+
+
 
 
 
@@ -1098,6 +1014,23 @@ p.event-place {
 
 /*************************************************
         News & Events section end here
+**************************************************/
+
+
+/********************************************
+    Partners Section Start Here
+*********************************************/
+
+section#Partners {
+    padding: 50px 0;
+}
+
+.partners-slider .single-partner {
+    border: 1px solid #ddd;
+}
+
+/*************************************************
+        Partners section end here
 **************************************************/
 
 
