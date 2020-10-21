@@ -88,7 +88,7 @@
 		                                        <ul class="first-dropped-menu">
 		                                            <li><a href="background.php">The organization</a></li>
 		                                            <li><a href="vision-mission.php">Vision & Mission</a></li>
-		                                            <li><a href="Javascript:void(0);">Our professionals</a></li>
+		                                            <li><a href="professionals.php">Our professionals</a></li>
 		                                            <li><a href="Javascript:void(0);">Panel of advisors and Experts</a></li>
 		                                            <li><a href="Javascript:void(0);">Network and Partnership</a></li>
 		                                            <li><a href="Javascript:void(0);">Management</a></li>
@@ -114,17 +114,16 @@
 		                                            <li class="second-drop-menu">
 		                                                <a href="#">Policy advocacy</a>
 		                                                <ul class="second-dropped-menu">
-		                                                    <li><a href="#">Presentations</a></li>
+		                                                    <li><a href="presentations.php">Presentations</a></li>
 		                                                    <li><a href="#">Workshop/Seminar</a></li>
 		                                                </ul>
 		                                            </li>
-		                                            <li><a href="#">Consultancy</a></li>
 		                                            <li><a href="#">Social and Professional services</a></li>
 		                                            <li class="second-drop-menu">
 		                                                <a href="#">Projects</a>
 		                                                <ul class="second-dropped-menu">
-		                                                    <li><a href="#">On-going</a></li>
-		                                                    <li><a href="#">Completed</a></li>
+		                                                    <li><a href="ongoing-projects.php">On-going</a></li>
+		                                                    <li><a href="completed-projects.php">Completed</a></li>
 		                                                </ul>
 		                                            </li>
 		                                        </ul>
@@ -133,9 +132,6 @@
 		                                        <a href="#">Resources</a>
 		                                        <ul class="first-dropped-menu">
 		                                            <li><a href="publications.php">All Publications</a></li>
-		                                            <li><a href="Javascript:void(0);">Journals</a></li>
-		                                            <li><a href="Javascript:void(0);">Books</a></li>
-		                                            <li><a href="Javascript:void(0);">Reports</a></li>
 		                                            <li><a href="Javascript:void(0);">Technical Notes</a></li>
 		                                        </ul>
 		                                    </li>
@@ -147,44 +143,13 @@
 		                                            <li><a href="Javascript:void(0);">Training sessions</a></li>
 		                                        </ul>
 		                                    </li> -->
-		                                    <!-- <li class="first-drop-menu">
-		                                        <a href="#">Publications</a>
-		                                        <ul class="first-dropped-menu">
-		                                            <li><a href="blank-page.php">BHW Bulletin</a></li>
-		                                            <li><a href="blank-page.php">BHW Reports</a></li>
-		                                        </ul>
-		                                    </li> -->
-		                                    <!-- <li class="first-drop-menu">
-		                                        <a href="#">Menu item</a>
-		                                        <ul class="first-dropped-menu">
-		                                            <li class="second-drop-menu">
-		                                                <a href="#">Dropdown Menu</a>
-		                                                <ul class="second-dropped-menu">
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                </ul>
-		                                            </li>
-		                                            <li class="second-drop-menu">
-		                                                <a href="#">Dropdown Menu</a>
-		                                                <ul class="second-dropped-menu">
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                    <li><a href="#">Dropdown item</a></li>
-		                                                </ul>
-		                                            </li>
-		                                        </ul>
-		                                    </li> -->
 		                                    <li>
 		                                        <a href="#">News & Events</a>
 		                                    </li>
 		                                    <li>
 		                                        <a href="#">Awards</a>
-		                                    </li>		                                    <li>
+		                                    </li>
+		                                    <li>
 		                                        <a href="#">Contact</a>
 		                                    </li>
 		                                </ul>

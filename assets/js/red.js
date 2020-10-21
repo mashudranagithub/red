@@ -1,7 +1,5 @@
 $(document).ready(function(){
 
-
-
     // Slider Start Here
     $('.owl-carousel.main-slider').owlCarousel({
         items:1,
@@ -13,6 +11,8 @@ $(document).ready(function(){
         responsiveRefreshRate : 10,
         autoplaySpeed:2000,
         autoplayTimeout:10000,
+        animateOut: 'slideOutDown',
+        animateIn: 'slideInDown',
         smartSpeed:500,
         margin:10,
         nav:true,

@@ -46,12 +46,11 @@
 		<div class="etra-contents">
 			<div class="etra-part education">
 				<div class="etra-content-inner text-center">
-					<!-- <img src="assets/img/etra/icons/Education.svg" alt="Etra Icon Image"> -->
 					<i class="fas fa-project-diagram"></i>
 					<h2>Projects</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At iusto eveniet nam reiciendis nesciunt ab exercitationem ...</p>
 
-					<a href="#" class="btn btn-red">Learn More
+					<a href="ongoing-projects.php" class="btn btn-red">Learn More
 						<i class="fas fa-angle-double-right"></i>
 					</a>
 				</div>
@@ -61,7 +60,7 @@
 					<i class="fas fa-newspaper"></i>
 					<h2>Publications</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At iusto eveniet nam reiciendis nesciunt ab exercitationem ...</p>
-					<a href="#" class="btn btn-red">Learn More
+					<a href="publications.php" class="btn btn-red">Learn More
 						<i class="fas fa-angle-double-right"></i>
 					</a>
 				</div>				
@@ -71,7 +70,7 @@
 					<i class="fas fa-file-powerpoint"></i>
 					<h2>Presentations</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At iusto eveniet nam reiciendis nesciunt ab exercitationem ...</p>
-					<a href="#" class="btn btn-red">Learn More
+					<a href="presentations.php" class="btn btn-red">Learn More
 						<i class="fas fa-angle-double-right"></i>
 					</a>
 				</div>				
@@ -172,7 +171,7 @@
 		
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<a href="javascript:void(0);" class="btn btn-red view-all">All projects</a>
+					<a href="ongoing-projects.php" class="btn btn-red view-all">All projects</a>
 				</div>
 			</div>
 		</div>
@@ -207,66 +206,56 @@
 				</div>
 				<div class="col-md-6">
 					<div class="publication-list">
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
-						<div class="single-publication">
-							<h4>
-								<a href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-							</h4>
-							<a href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-						</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="http://www.thedailystar.net/city/bracs-haor-model-generates-impressive-results-1485199">Govt-NGOs can replicate Brac model for development, published on 2 Nov 2017, The Daily Star.</a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="http://www.emediadesk.com/clip/1047754">Flash flood causes TK 29b loses in haor region: study, published on 2 Nov 2017, Financial Express </a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="http://www.emediadesk.com/clip/1047882">Half of the households in flood affected haors consume less food: BRAC study, published on 2 Nov 2017, The New Age</a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="http://www.daily-sun.com/printversion/details/265667/Income-of-poor-people-in-haor-areas-rises-by-9pc">Income of poor people in haor areas rises by 9pc, published on 2 Nov 2017, The Daily Sun</a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="javascript:void(0)">Income of poor people in haor areas rises by 9 pc, published on 2 Nov 2017, The News today</a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="http://www.thedailystar.net/perspective/ignorance-or-negligence-1377892">Fire outbreak at Karail: Ignorance or negligence?, published on 19 March 2017, The Daily Star</a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="javascript:void(0)">Government should formulate policy to preserve groundwater level: Study” published in the Financial Express on 25 May 2013</a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="javascript:void(0)">Groundwater use for irrigation growing concern in northern region, published in the News Today on 25 May 2013</a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="javascript:void(0)">Groundwater use concern in northern region: Study, published in the Daily Star on 25 May 2013</a>
+   </div>
+</div>
+<div class="single-article">
+   <div class="article-info">
+      <a target="_blank" href="javascript:void(0)">Excess use of groundwater threat to agriculture: Study, published in the Daily Sun on 25 may 2013</a>
+   </div>
+</div>
 					</div>
 				</div>
 			</div>

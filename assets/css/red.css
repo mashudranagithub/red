@@ -95,7 +95,7 @@ a.btn.btn-red svg.svg-inline--fa {
 
 a.btn.btn-red.know-more {
     background: none;
-    padding-left: 0;
+    padding: 5px 0 0;
 }
 
 a.btn.btn-red.know-more:hover {
@@ -145,7 +145,7 @@ body::-webkit-scrollbar-thumb {
 /*Header start*/
 
 .header-top {
-    background: #006634;
+    background: #000;
     min-height: 40px;
 }
 
@@ -371,7 +371,7 @@ section#Slider {
 }
 
 .single-slider.clear::before{
-    opacity: 0.2;
+    opacity: 0.5;
 }
 
 
@@ -535,26 +535,7 @@ section#Etra {
     font-size: 21px;
 }
 
-
-
-.etra-backgrounds .etra-part.education{
-    background-image: url('../img/etra/backgrounds/Education.JPG');
-}
-
-.etra-backgrounds .etra-part.training{
-    background-image: url('../img/etra/backgrounds/Tranning.JPG');
-}
-
-.etra-backgrounds .etra-part.research{
-    background-image: url('../img/etra/backgrounds/Research.jpg');
-}
-
-.etra-backgrounds .etra-part.advocacy{
-    background-image: url('../img/etra/backgrounds/advocacy.jpg');
-}
-
 .etra-backgrounds .etra-part.education,
-.etra-backgrounds .etra-part.training,
 .etra-backgrounds .etra-part.research,
 .etra-backgrounds .etra-part.advocacy{
     position: relative;
@@ -562,7 +543,6 @@ section#Etra {
 }
 
 .etra-backgrounds .etra-part.education::after,
-.etra-backgrounds .etra-part.training::after,
 .etra-backgrounds .etra-part.research::after,
 .etra-backgrounds .etra-part.advocacy::after {
     position: absolute;
@@ -574,20 +554,15 @@ section#Etra {
 }
 
 .etra-backgrounds .etra-part.education::after{
-    background: rgba(0, 102, 52, 1);
+    background: #fff;
 }
 
-/*.etra-backgrounds .etra-part.training::after{
-    background: rgba(56, 148, 141, 1);
-}*/
-
 .etra-backgrounds .etra-part.research::after{
-    /*background: rgba(0, 0, 0, 1);*/
-    background: rgba(213, 206, 180, 1);
+    background: #bfbfbf;
 }
 
 .etra-backgrounds .etra-part.advocacy::after{
-    background: rgba(165, 0, 0, 1);
+    background: #fff;
 }
 
 
@@ -600,20 +575,15 @@ section#Etra {
 }
 
 .etra-backgrounds .etra-part.education.scrolled::after {
-    background: rgba(0, 102, 52, 0.9);
+    background: rgba(0, 0, 0, 0.9);
 }
 
-/*.etra-backgrounds .etra-part.training.scrolled::after {
-    background: rgba(56, 148, 141, 0.8);
-}*/
-
 .etra-backgrounds .etra-part.research.scrolled::after {
-    /*background: rgba(0, 0, 0, 0.8);*/
-    background: rgba(213, 206, 180, 0.9);
+    background: rgba(0, 0, 0, 0.8);
 }
 
 .etra-backgrounds .etra-part.advocacy.scrolled::after {
-    background: rgba(165, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.9);
 }
 
 .etra-backgrounds .etra-part {
@@ -913,7 +883,7 @@ section#Publication {
 }
  
 .publication-list::-webkit-scrollbar-thumb {
-  background-color: #a50000;
+  background-color: #8c8c8c;
   border-radius: 4px;
   outline: 1px solid slategrey;
 }
@@ -1042,8 +1012,7 @@ section#Partners {
 /**************************  Footer **************************/
 
 footer#Footer {
-    /*background: #00ce69;*/
-    background: rgb(213, 206, 180);
+    background: #e6e6e6;
 }
 
 .footer-main {
@@ -1056,7 +1025,7 @@ footer#Footer {
 }
 
 .footer-single-box p {
-    color: #fff;
+    color: #000;
     font-size:  15px;
     font-weight: 400;
     text-transform: capitalize;
@@ -1065,7 +1034,7 @@ footer#Footer {
 }
 
 .footer-bottom {
-    background: #006634;
+    background: #000;
     height: 50px;
     overflow: hidden;
 }
@@ -1078,7 +1047,7 @@ footer#Footer {
 }
 
 .footer-service-list li a {
-    color: #fff;
+    color: #000;
     font-size:  15px;
     text-transform:  capitalize;
     font-weight: 400;
@@ -1106,7 +1075,7 @@ ul.footer-contacts li.fa::before {
 }
 
 ul.footer-contacts li span {
-    color: #fff;
+    color: #000;
     line-height: 22px;
     font-size: 15px;
     font-family:  roboto, sans-serif;
@@ -1131,7 +1100,9 @@ ul.footer-contacts li span {
 
 .footer-single-box h3 {
     margin-bottom: 20px;
-    font-weight: 700;
+    font-weight: 400;
+    color: #000;
+    letter-spacing: 1.5px;
 }
 
 ul.footer-contacts li svg.svg-inline--fa,
@@ -1173,17 +1144,30 @@ section#Page-content h3 {
 
 
 /*Publications page start here*/
-.article-image {
-    max-width: 20%;
+.article-image,
+.member-image {
     margin-right: 20px;
 }
 
-.single-article {
+.article-image {
+    max-width: 20%;
+}
+
+.member-image {
+    max-width: 25%;
+}
+
+.single-article,
+.single-member {
     margin-bottom: 20px;
     padding-bottom: 10px;
     border-bottom: 1px solid #a50000;
     background: #f6f6f6;
     padding: 15px 20px;
+}
+
+.single-article {
+    padding: 15px 0px !important;
 }
 
 section#Page-content .tab-content h3 {
@@ -1211,17 +1195,41 @@ section#Page-content .tab-content h3 {
     background: #a50000;
 }
 
-.article-info h4 a {
+.article-info h4 a,
+.member-info h4 a {
     color: #333;
 }
 
-.article-info h4:hover a {
+.article-info h4:hover a,
+.member-info h4:hover a {
     color: #a50000;
 }
 
 
 /*Publications page end here*/
 
+
+/*Projects pages*/
+
+
+ul.projects li {
+    display: list-item;
+    list-style: decimal-leading-zero;
+    margin-left: 25px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+}
+
+ul.projects li a {
+    color: #212529;
+    font-size: 17px;
+    letter-spacing: 0.3px;
+}
+
+ul.projects li a:hover {
+    color: #a50000;
+    text-decoration: underline;
+}
 
 
 
