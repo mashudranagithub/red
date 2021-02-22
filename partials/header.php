@@ -119,13 +119,7 @@
 		                                                </ul>
 		                                            </li>
 		                                            <li><a href="#">Social and Professional services</a></li>
-		                                            <li class="second-drop-menu">
-		                                                <a href="#">Projects</a>
-		                                                <ul class="second-dropped-menu">
-		                                                    <li><a href="ongoing-projects.php">On-going</a></li>
-		                                                    <li><a href="completed-projects.php">Completed</a></li>
-		                                                </ul>
-		                                            </li>
+		                                            <li><a href="studies.php">Studies</a></li>
 		                                        </ul>
 		                                    </li>
 		                                    <li class="first-drop-menu">

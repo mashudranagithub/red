@@ -47,10 +47,10 @@
 			<div class="etra-part education">
 				<div class="etra-content-inner text-center">
 					<i class="fas fa-project-diagram"></i>
-					<h2>Projects</h2>
+					<h2>Studies</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At iusto eveniet nam reiciendis nesciunt ab exercitationem ...</p>
 
-					<a href="ongoing-projects.php" class="btn btn-red">Learn More
+					<a href="studies.php" class="btn btn-red">Learn More
 						<i class="fas fa-angle-double-right"></i>
 					</a>
 				</div>

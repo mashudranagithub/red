@@ -1234,6 +1234,44 @@ ul.projects li a:hover {
 
 
 
+/*Studies Page*/
+
+.studies-list {
+    padding: 50px 0;
+}
+
+.studies-list .single-study {
+    margin-bottom: 30px;
+}
+
+.studies-list .single-study-image {
+    height: 250px;
+    overflow: hidden;
+}
+
+.studies-list p.single-study-title a {
+    background: #ddd;
+    padding: 10px 15px;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    color: #333;
+}
+
+.single-study:hover p.single-study-title a {
+    background: #006634;
+    color: #fff;
+}
+
+.study-content p {
+    margin-bottom: 15px;
+}
+
+.study-content .projects {
+    margin-top: 25px;
+}
+
+
 
 
 

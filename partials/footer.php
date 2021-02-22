@@ -9,19 +9,19 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aut fugiat perferendis, fuga corporis. Dicta soluta architecto.</p>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="footer-single-box">
-                            <h3>Our Projects</h3>
+                            <h3>Our Studies</h3>
                             <ul class="footer-service-list">
-                                <li><i class="fas fa-angle-right"></i><a href="#">Project One</a></li>
-                                <li><i class="fas fa-angle-right"></i><a href="#">Project Two</a></li>
-                                <li><i class="fas fa-angle-right"></i><a href="#">Project Three</a></li>
-                                <li><i class="fas fa-angle-right"></i><a href="#">Project Four</a></li>
-                                <li><i class="fas fa-angle-right"></i><a href="#">Project Five</a></li>
+                                <li><i class="fas fa-angle-right"></i><a href="#">Covid-19</a></li>
+                                <li><i class="fas fa-angle-right"></i><a href="#">Food security and improved Nutrition</a></li>
+                                <li><i class="fas fa-angle-right"></i><a href="#">Sustainable Agriculture and Natural Resources</a></li>
+                                <li><i class="fas fa-angle-right"></i><a href="#">Disaster management & climate adaptation</a></li>
+                                <li><i class="fas fa-angle-right"></i><a href="#">Gender equality and empowerment</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-2">
                         <div class="footer-single-box">
                             <h3>Quick Links</h3>
                             <ul class="footer-service-list">
