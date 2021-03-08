@@ -33,21 +33,8 @@
 					<div class="tab-pane fade active show" id="journal-articles" role="tabpanel" aria-labelledby="journal-articles-tab">
 						<h3>Journal articles, book chapters, reports & working papers</h3>
 						<div class="articles-list">
-							<!-- <div class="single-article d-flex">
-								<div class="article-image">
-									<a target="_blank" href="javascript:void(0);">
-										<img src="assets/img/publication/water-management.jpg" alt="Publication Image">
-									</a>
-								</div>
-								<div class="article-info">
-									<h4>
-										<a target="_blank" href="javascript:void(0)">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a>
-									</h4>
-									<a target="_blank" href="javascript:void(0);" class="btn btn-red know-more" target="_blank">Know more</a>
-								</div>
-							</div> -->
 
-<div class="single-article">
+<!-- <div class="single-article">
     <div class="article-info">
             <a target="_blank" href="javascript:void(0)">Dey NC, Parvez M, Islam MR, Mistry SK, Levine D (2019). Effectiveness of a community-based water, sanitation, and hygiene (WASH) intervention in reduction of diarrhoea among under-five children: Evidence from a repeated cross-sectional study (2007–2015) in rural Bangladesh. International Journal of Hygiene and Environmental Health. 222 (8): 1098-1108 https://doi.org/10.1016/j.ijheh.2019.08.006 </a>
     </div>
@@ -476,7 +463,7 @@
    <div class="article-info">
       <a target="_blank" href="javascript:void(0)">Excess use of groundwater threat to agriculture: Study, published in the Daily Sun on 25 may 2013</a>
    </div>
-</div>
+</div> -->
 
 						</div>
 					</div>
