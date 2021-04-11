@@ -7,7 +7,7 @@
 <section id="Page-content" class="gray">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-md-12 mb-4">
 				<div class="page-heading">
 					<h3>R&D in Entrepreneurship Development</h3>
 				</div>
@@ -24,6 +24,86 @@
 			</div>
 		</div>
 	</div>
+
+
+
+	<div class="studies-list">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 mb-4">
+					<hr>
+					<h3 class="mt-4">Our All Studies</h3>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-covid.php">Covid-19</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-food.php">Food security and improved Nutrition</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-agriculture.php">Sustainable Agriculture and Natural Resources</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-disaster.php">Disaster management and climate change adaptation</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-gender.php">Gender equality and empowerment</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-wash.php">WASH and Environmental Health</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-air.php">Air pollution and health</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-disability.php">Persons with Disability</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-entrepreneurship.php">Entrepreneurship Development</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
 </section>
 
 

@@ -465,7 +465,7 @@ section#Etra {
 
 
 .etra-backgrounds {
-    background:  #595959;
+    background: #006634;
     height: 500px;
     width: 100%;
     display: flex;
@@ -476,12 +476,10 @@ section#Etra {
     position: absolute;
     content: '';
     bottom: 0;
-    /*background: #333;*/
     z-index: 99999;
     left: 0;
-    height: 70px;
+    height: 0px;
     width: 100%;
-    background: #fff;
 }
 
 
@@ -558,7 +556,7 @@ section#Etra {
 }
 
 .etra-backgrounds .etra-part.research::after{
-    background: #bfbfbf;
+    background: #fff;
 }
 
 .etra-backgrounds .etra-part.advocacy::after{
@@ -572,19 +570,20 @@ section#Etra {
 .etra-backgrounds .etra-part.research::after,
 .etra-backgrounds .etra-part.advocacy::after {
     transition: all 1s;
+    background: rgba(0, 0, 0, 1);
 }
 
-.etra-backgrounds .etra-part.education.scrolled::after {
+/*.etra-backgrounds .etra-part.education.scrolled::after {
     background: rgba(0, 0, 0, 0.9);
 }
 
 .etra-backgrounds .etra-part.research.scrolled::after {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.9);
 }
 
 .etra-backgrounds .etra-part.advocacy.scrolled::after {
     background: rgba(0, 0, 0, 0.9);
-}
+}*/
 
 .etra-backgrounds .etra-part {
     background-size: cover;
@@ -628,9 +627,8 @@ section#Etra {
 ******************************/
 
 section#About {
-    height: 100vh;
-    /*background: #333;*/
-    padding-bottom: 70px;
+    height: 90vh;
+    background: #f4f4f4;
 }
 
 .section-heading h2 {
@@ -855,7 +853,7 @@ section#Publication {
 
 .latest-publication-info {
     background: #f6f6f6;
-    padding: 20px 20px 0;
+    padding: 20px;
 }
 
 .latest-publication h4 {

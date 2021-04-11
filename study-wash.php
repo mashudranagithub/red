@@ -7,7 +7,7 @@
 <section id="Page-content" class="gray">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-md-12 mb-4">
 				<div class="page-heading">
 					<h3>WASH and Environmental Health</h3>
 				</div>
@@ -33,10 +33,10 @@
 						<li><a href="javascript:void(0);" target="_blank">Sustainability of WASH practices: Hygiene behavior in the rural settings of Bangladesh.</a></li>
 						<li><a href="javascript:void(0);" target="_blank">Environment: Water, sanitation and hygiene. Hossain & Bayes (Editor) In: Leading issues in Rural Development- Bangladesh perspective</a></li>
 						<li><a href="javascript:void(0);" target="_blank">Exploring the gap between hand washing knowledge and practices in Bangladesh: a cross-sectional comparative study</a></li>
-						<li><a href="javascript:void(0);" target="_blank">Environmental sanitation at rural household in BRAC-WASH program areas</a></li>
-						<li><a href="javascript:void(0);" target="_blank">Use of tubewell water for different purposes at household level: safety practices in rural Bangladesh, In: Achievement of BRAC-WASH program towards Millennium Development Goal and Beyond</a></li>
+						<li><a href="javascript:void(0);" target="_blank">Environmental sanitation at rural households situated across the country.</a></li>
+						<li><a href="javascript:void(0);" target="_blank">Use of tubewell water for different purposes at household level: safety practices in rural Bangladesh, In: Achievement of WASH program towards Millennium Development Goal and Beyond</a></li>
 						<li><a href="javascript:void(0);" target="_blank">Changes in the use of safe water and water safety measures in WASH intervention areas of Bangladesh: a midline assessment</a></li>
-						<li><a href="javascript:void(0);" target="_blank">The BRAC WASH Programme: Describing the core operational approaches, monitoring, evaluation and some results</a></li>
+						<li><a href="javascript:void(0);" target="_blank">The WASH Programme: Describing the core operational approaches, monitoring, evaluation and some results</a></li>
 						<li><a href="javascript:void(0);" target="_blank">Transition overtime in household latrine use in rural Bangladesh: a longitudinal cohort study.</a></li>
 						<li><a href="javascript:void(0);" target="_blank">Assessing environmental and health impact of drought in the northwest Bangladesh</a></li>
 					</ul>
@@ -44,6 +44,86 @@
 			</div>
 		</div>
 	</div>
+
+
+
+	<div class="studies-list">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 mb-4">
+					<hr>
+					<h3 class="mt-4">Our All Studies</h3>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-covid.php">Covid-19</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-food.php">Food security and improved Nutrition</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-agriculture.php">Sustainable Agriculture and Natural Resources</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-disaster.php">Disaster management and climate change adaptation</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-gender.php">Gender equality and empowerment</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-wash.php">WASH and Environmental Health</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-air.php">Air pollution and health</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-disability.php">Persons with Disability</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="single-study">
+						<p class="single-study-title">
+							<a href="study-entrepreneurship.php">Entrepreneurship Development</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
 </section>
 
 

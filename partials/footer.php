@@ -3,10 +3,33 @@
         <div class="footer-main">
             <div class="container">
                 <div class="row justify-content-between">
-                    <div class="col-md-3">
+                    <!-- <div class="col-md-3">
                         <div class="footer-single-box">
                             <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aut fugiat perferendis, fuga corporis. Dicta soluta architecto.</p>
+                        </div>
+                    </div> -->
+                    <div class="col-md-3">
+                        <div class="footer-single-box">
+                            <h3>Contacts</h3>
+                            <ul class="footer-contacts">
+                                <li>
+                                    <i class="far fa-clock"></i>
+                                    <span> Sun - Thu 9:00 a.m. - 5:00 p.m. <br> Friday and Saturday Closed</span>
+                                </li>
+                                <li>
+                                    <i class="fas fa-map-marker"></i>
+                                    <span> 21/5 Pallabi, Dhaka 1216 </span>
+                                </li>
+                                <li>
+                                    <i class="fas fa-envelope"></i>
+                                    <span>E-mail: redltd3@gmail.com</span>
+                                </li>
+                                <li>
+                                    <i class="fas fa-phone"></i>
+                                    <span>Mobile: +8801782 - 070254</span>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -30,29 +53,6 @@
                                 <li><i class="fas fa-angle-right"></i><a href="#">Presentations</a></li>
                                 <li><i class="fas fa-angle-right"></i><a href="#">Awards</a></li>
                                 <li><i class="fas fa-angle-right"></i><a href="#">Contact</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="footer-single-box">
-                            <h3>Contacts</h3>
-                            <ul class="footer-contacts">
-                                <li>
-                                	<i class="far fa-clock"></i>
-                                    <span> Sun - Thu 9:00 a.m. - 5:00 p.m. <br> Friday and Saturday Closed</span>
-                                </li>
-                                <li>
-                                	<i class="fas fa-map-marker"></i>
-                                    <span> 21/5 Pallabi, Dhaka 1216 </span>
-                                </li>
-                                <li>
-                                	<i class="fas fa-envelope"></i>
-                                    <span>E-mail: redltd3@gmail.com</span>
-                                </li>
-                                <li>
-                                	<i class="fas fa-phone"></i>
-                                    <span>Mobile: 01714-091-310</span>
-                                </li>
                             </ul>
                         </div>
                     </div>

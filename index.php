@@ -1,9 +1,9 @@
 <?php include('partials/header.php'); ?>
 
-	<section id="Slider">
+<!-- 	<section id="Slider">
 		<div class="owl-carousel main-slider">
 			<div class="single-slider">
-				<img src="assets/img/slider/slider-4.JPG" alt="Banner Image">
+				<img src="assets/img/slider/slider-4.jpg" alt="Banner Image">
 				<div class="slider-content">
 					<h2 class="animated wow slideInDown">Lorem ipsum dolor sit amet</h2>
 					<p class="animated wow slideInRight delay-1s">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
@@ -33,7 +33,31 @@
 				</div>
 			</div>
 		</div>
+	</section> -->
+
+	<!-- About Section Start Here -->
+	<section id="About" class="d-flex justify-content-center align-items-center white">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-heading text-center">
+						<h2>Welcome to <span>Research and Entrepreneurship Development Ltd.</span></h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 d-flex justify-content-center align-items-center text-center">
+					<div class="about-text">
+						<p>Research and Entrepreneurship Development Ltd. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati quasi at omnis ut dolore, facilis fuga quaerat pariatur! Accusamus quam, facilis optio ullam distinctio velit itaque. Consequatur debitis laborum reprehenderit facere eos magni quae blanditiis repellendus omnis enim, consequuntur incidunt corporis repellat maxime non harum reiciendis nobis dolore nesciunt id!</p>
+						<a href="javascript:void(0);" class="btn btn-red">Know More
+							<i class="fas fa-angle-double-right"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
 	</section>
+	<!-- About Section End Here -->
 
 
 	<section id="Etra">
@@ -78,30 +102,6 @@
 		</div>
 	</section>
 
-
-	<!-- About Section Start Here -->
-	<section id="About" class="d-flex justify-content-center align-items-center white">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="section-heading text-center">
-						<h2>Welcome to <span>Research and Entrepreneurship Development Ltd.</span></h2>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12 d-flex justify-content-center align-items-center text-center">
-					<div class="about-text">
-						<p>Research and Entrepreneurship Development Ltd. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati quasi at omnis ut dolore, facilis fuga quaerat pariatur! Accusamus quam, facilis optio ullam distinctio velit itaque. Consequatur debitis laborum reprehenderit facere eos magni quae blanditiis repellendus omnis enim, consequuntur incidunt corporis repellat maxime non harum reiciendis nobis dolore nesciunt id!</p>
-						<a href="javascript:void(0);" class="btn btn-red">Know More
-							<i class="fas fa-angle-double-right"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- About Section End Here -->
 
 
 	<!-- project section start here -->

@@ -80,9 +80,6 @@
 		                            </button>
 		                            <div class="collapse navbar-collapse" id="navbarResponsive">
 		                                <ul class="navbar-nav ml-auto">
-		                                    <li>
-		                                        <a href="index.php">Home</a>
-		                                    </li>
 		                                    <li class="first-drop-menu">
 		                                        <a href="who-we-are.php">About Us</a>
 		                                        <ul class="first-dropped-menu">
@@ -122,6 +119,9 @@
 		                                            <li><a href="studies.php">Studies</a></li>
 		                                        </ul>
 		                                    </li>
+		                                    
+		                                    <li><a href="studies.php">Studies</a></li>
+		                                    
 		                                    <li class="first-drop-menu">
 		                                        <a href="#">Resources</a>
 		                                        <ul class="first-dropped-menu">
